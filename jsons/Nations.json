@@ -1,0 +1,289 @@
+[
+	{
+		"name": "Incheon",
+		"cityStateType": "Mercantile",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [64,173,179],
+		"cities": ["Incheon"]
+	},
+	{
+		"name": "Goyang",
+		"cityStateType": "Militaristic",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90,199,146],
+		"cities": ["Goyang"]
+	},
+	{
+		"name": "Yongin",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [109,232,107],
+		"cities": ["Yongin"]
+	},
+	{
+		"name": "Ganghwa",
+		"cityStateType": "Cultured",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [95, 139, 227],
+		"cities": ["Ganghwa"]
+	},
+	{
+		"name": "Yangju",
+		"cityStateType": "Cultured",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [156, 87, 42],
+		"cities": ["Yangju"]
+	},
+	{
+		"name": "Paju",
+		"cityStateType": "Cultured",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [153, 224, 247],
+		"cities": ["Paju"]
+	},
+	{
+		"name": "Pyeongtaek",
+		"cityStateType": "Maritime",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90, 199, 146],
+		"cities": ["Pyeongtaek"]
+	},
+	{
+		"name": "Gyeonggi Gwangju",
+		"cityStateType": "Militaristic",
+		"startBias": ["Hills"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [189, 158, 49],
+		"cities": ["Gyeonggi Gwangju"]
+	},
+	{
+		"name": "Chuncheon",
+		"cityStateType": "Cultured",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [69, 199, 255],
+		"cities": ["Chuncheon"]
+	},
+	{
+		"name": "Samcheok",
+		"cityStateType": "Mercantile",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250, 158, 60],
+		"cities": ["Samcheok"]
+	},
+	{
+		"name": "Cheonan",
+		"cityStateType": "Mercantile",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [179, 172, 148],
+		"cities": ["Cheonan"]
+	},
+	{
+		"name": "Hongseong",
+		"cityStateType": "Cultured",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [41, 204, 144],
+		"cities": ["Hongseong"]
+	},
+	{
+		"name": "Daejeon",
+		"cityStateType": "Mercantile",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [19, 194, 167],
+		"cities": ["Daejeon"]
+	},
+	{
+		"name": "Buyeo",
+		"cityStateType": "Militaristic",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [173, 16, 42],
+		"cities": ["Buyeo"]
+	},
+	{
+		"name": "Gunsan",
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [48, 101, 217],
+		"cities": ["Gunsan"]
+	},
+	{
+		"name": "Namwon",
+		"cityStateType": "Cultured",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 105, 177],
+		"cities": ["Namwon"]
+	},
+	{
+		"name": "Yeosu",
+		"cityStateType": "Maritime",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [71, 166, 230],
+		"cities": ["Yeosu"]
+	},
+	{
+		"name": "Naju",
+		"cityStateType": "Cultured",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [90, 199, 146],
+		"cities": ["Naju"]
+	},
+	{
+		"name": "Pohang",
+		"cityStateType": "Militaristic",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [209, 35, 23],
+		"cities": ["Pohang"]
+	},
+	{
+		"name": "Gumi",
+		"cityStateType": "Mercantile",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [83, 91, 219],
+		"cities": ["Gumi"]
+	},
+	{
+		"name": "Gimhae",
+		"cityStateType": "Cultured",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [227, 211, 86],
+		"cities": ["Gimhae"]
+	},
+	{
+		"name": "Tongyeong",
+		"cityStateType": "Militaristic",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [181, 49, 126],
+		"cities": ["Tongyeong"]
+	},
+	{
+		"name": "Hapcheon",
+		"cityStateType": "Cultured",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 121, 38],
+		"cities": ["Hapcheon"]
+	},
+	{
+		"name": "Jeju",
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "It's victory of yours. We kneel to thee.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [95, 232, 218],
+		"cities": ["Jeju"]
+	}
+]
